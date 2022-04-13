@@ -1,5 +1,5 @@
 # Mỗi url của danh mục, phía cuối có các mã số
-# Các mã số đó đại diện cho id danh mục
+# Các mã số đó đại diện cho id danh mục.
 # => Mục tiêu tách các id đó ra
 # vd: https://tiki.vn/do-choi-me-be/c2549
 
